@@ -4,7 +4,7 @@
 
 
 
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
+[![image](https://zupimages.net/up/21/44/zy6h.png)](https://www.instagram.com/brantlauro/)
 
 ---
 
