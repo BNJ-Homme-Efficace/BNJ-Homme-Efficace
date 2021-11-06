@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://zupimages.net/up/21/44/mer8.jpg" height="200"/>
+  <img src="https://zupimages.net/up/21/44/mer8.jpg" height="1000"/>
 </p>
 <br>
 
