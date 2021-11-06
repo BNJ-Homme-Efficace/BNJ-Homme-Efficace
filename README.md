@@ -4,7 +4,7 @@
 
 
 
-[![Community](https://zupimages.net/up/21/44/zy6h.png)(https://discord.gg/WAhXbMXbyE)
+[![Community](https://zupimages.net/up/21/44/zy6h.png)[(https://discord.gg/WAhXbMXbyE)
 
 ---
 
