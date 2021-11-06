@@ -1,43 +1,35 @@
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Hiren Namera here</h1>
-<p>
+### My name is `Pablo Silva`.
 
-⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 66.05 % I still have time to learn more Techs this year
+📚 information system student at UFPI.
 
-</p>
+Just I'm a S.I academic at UFPI, who likes anime and enthusiastic about technology, but really lazy.
+`¯\_(ツ)_/¯`
 
-<h1>Popular Repos created by me</h1>
-<table>
-  <thead align="center">
-    <tr >
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-	    <td><a href="https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning"><b>Basic-Mathematics-for-Machine-Learning</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/hrnbot/Basic-Mathematics-for-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/hrnbot/Basic-Mathematics-for-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
-         </tr>
-	  </tr>
-  </tbody>
-</table>
+### What I'm currently learning:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<h1>GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrnbot&layout=compact;show_icons=true" alt="GitHub Most Frequent Languages used by me"></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=hrnbot&amp;show_icons=true" alt="GitHub Stats"></p>
+## My activities
 
+<a href="https://github.com/Pepyn0/github-readme-stats">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/Pepyn0/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
 
-<h11>Where to find me</h1>
-<p><a href="https://github.com/hrnbot" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hiren-namera-83520ab4" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/the_artificial_intel_developer/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 
-<p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
-<p>⏰ Updated on Sat, 29 Aug 2020 18:08:51 GMT</p>
+<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
------
-Credits: [hrnbot](https://github.com/hrnbot)
+------
+Credits: [Pepyn0](https://github.com/Pepyn0)
 
-Last Edited on: 30/08/2020
+Last Edited on: 17/09/2021
