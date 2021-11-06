@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://zupimages.net/up/21/44/mer8.jpg" height="500"/>
+  ![Cover](https://zupimages.net/up/21/44/mer8.jpg)
 </p>
 <br>
 
