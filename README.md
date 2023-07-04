@@ -1,6 +1,6 @@
 
 
-[![img](https://zupimages.net/up/22/48/duv5.png)](https://omkarpathak.in)
+[![img](https://zupimages.net/up/23/27/31wp.png)](https://omkarpathak.in)
 
 ---
 
